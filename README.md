@@ -1,24 +1,55 @@
+# Hi there, I'm Oktay Doğanyıldız 👋
 
-
-<h1 align="center">Hi 👋, I'm Oktay Doğanyıldız</h1>
-
-
-
-![Daco_4717696](https://github.com/oktaydoganyildiz/CLTV-Prediction-With-BG-NBD-ve-Gamma-Gamma/assets/70387935/3fc2f293-8276-4cdd-a8d7-b514e1275bc2)
-
-
-- 📫 How to reach me **o.doganyildiz@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oktay-do%c4%9fany%c4%b1ld%c4%b1z-5a163312b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oktay-do%c4%9fany%c4%b1ld%c4%b1z-5a163312b/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/oktay-doğanyıldız-5a163312b/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:o.doganyildiz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
+I am a **Data & Analytics Consultant** and **SAP Developer** specializing in bridging the gap between enterprise data and intelligent insights. Currently focusing on modern SAP architectures and AI integrations.
 
+- 🚀 Working on: **SAP Datasphere, HANA Cloud, and BW/4HANA.**
+- 🤖 Interesting Project: Integrating AI agents with enterprise data via **Model Context Protocol (MCP)**.
+- 🎓 Continuous Learner: Exploring the intersection of **Python, Machine Learning, and SAP Analytics Cloud.**
+- 🏎️ Fun Fact: When I'm not coding, you can find me on the **iRacing** tracks with my Moza setup.
 
+---
 
+### 🛠 Tech Stack
 
+**Core Expertise (SAP & Enterprise)**
+![SAP](https://img.shields.io/badge/SAP-0faaff?style=flat-square&logo=sap&logoColor=white) 
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-008FD3?style=flat-square&logo=sap&logoColor=white) 
+![SAP Analytics Cloud](https://img.shields.io/badge/SAP_Analytics_Cloud-008FD3?style=flat-square)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+**Data Science & Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+**Tools & Environment**
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-563D7C?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=oktaydoganyildiz&show_icons=true&theme=tokyonight" alt="Oktay's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktaydoganyildiz&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+</p>
+
+---
+
+### 🌟 Key Projects
+*   **SAP to AI Bridge:** Developed an MCP server to enable Claude/Gemini to query SAP HANA Cloud databases.
+*   **Enterprise Automation:** Integrated SAP Datasphere notifications with Microsoft Teams via Power Automate.
+*   **Migration Specialist:** Large-scale data migrations from SAP BW to Datasphere for international clients.
