@@ -39,13 +39,7 @@ I am a **Data & Analytics Consultant** and **SAP Developer** specializing in bri
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oktaydoganyildiz&show_icons=true&theme=tokyonight" alt="Oktay's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktaydoganyildiz&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
 
----
 
 ### 🌟 Key Projects
 *   **SAP to AI Bridge:** Developed an MCP server to enable Claude/Gemini to query SAP HANA Cloud databases.
