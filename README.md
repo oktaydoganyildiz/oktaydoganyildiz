@@ -13,7 +13,7 @@ I am a **Data & Analytics Consultant** and **SAP Developer** specializing in bri
 - 🚀 Working on: **SAP Datasphere, HANA Cloud, and BW/4HANA.**
 - 🤖 Interesting Project: Integrating AI agents with enterprise data via **Model Context Protocol (MCP)**.
 - 🎓 Continuous Learner: Exploring the intersection of **Python, Machine Learning, and SAP Analytics Cloud.**
-- 🏎️ Fun Fact: When I'm not coding, you can find me on the **iRacing** tracks with my Moza setup.
+
 
 ---
 
